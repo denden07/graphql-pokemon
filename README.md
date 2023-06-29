@@ -29,9 +29,13 @@ npm run build
 ```
 
 ### Packages/Plugins Used
-Vuex
-Bootstrap
+```sh
+Vuex,
+Bootstrap,
 Apollo(GraphQl)
+```
 
 ### GraphQl Endpoint
+```sh
 https://beta.pokeapi.co/graphql/v1beta
+```

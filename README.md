@@ -22,12 +22,6 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
 ### Packages/Plugins Used
 ```sh
 Vuex,

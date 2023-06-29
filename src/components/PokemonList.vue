@@ -34,8 +34,9 @@
             </div>
         </div>
         <div v-if="$store.state.showPagination" class="simple-pagination">
-        <button style="margin-right: 10px;" class="btn btn-primary" @click="nextPage()">Next</button>
-        <button class="btn btn-primary" @click="prevPage()">Preview</button>
+      
+        <button  style="margin-right: 10px;" class="btn btn-primary" @click="prevPage()">Preview</button>
+        <button class="btn btn-primary" @click="nextPage()">Next</button>
         </div>
 
     </div>

@@ -15,7 +15,7 @@
       </a>
     <p id="sub-title">
       Squirtle Bulbasaur Charmander <br>
-      You can search for pokemon on the search bar or press the button bellow to find the pokemon you want.
+      You can search for pokemon on the search bar or press the button bellow to see all the pokemon there is in the world.
     </p>
     <input type="button" value="I choose you" id="botao-escolha" @click="fetchAllPokemons()">
   </div>
